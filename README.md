@@ -1,4 +1,3 @@
-# RouterBOARD-Scripts
 ![](https://img.shields.io/badge/license-GPLv3-blue)
 
 ### Scripts atualmente disponíveis:
