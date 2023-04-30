@@ -1,1 +1,13 @@
+title: RouterBOARD Scripts
+author:
+  name: Henrique Sebastião
+  email: henriquesebastiao.web@gmail.com
+  
 theme: minima
+
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
