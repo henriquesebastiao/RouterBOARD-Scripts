@@ -2,6 +2,8 @@
 
 ### Scripts atualmente disponíveis:
 - `Scripts de beeps`
+- `Controle de bando automático quando um novo cliente receber IP do DHCP Server`
+- `Scripts de mensagem para grupos do Telegram por meio da API`
 
 ### Descrição
 Este repositório é uma coleção de scripts para Routerboards Mikrotik, destinado a ajudar administradores de rede a automatizar tarefas e simplificar a configuração de suas redes. Os scripts fornecidos neste repositório abrangem uma ampla gama de funcionalidades, desde tarefas básicas de configuração até tarefas avançadas de gerenciamento de rede.
