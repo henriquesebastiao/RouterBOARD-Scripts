@@ -1,32 +1,32 @@
-![](https://img.shields.io/badge/license-GPLv3-blue)
+[![LICENSE](https://img.shields.io/github/license/henriquesebastiao/RouterBOARD-Scripts?color=red)](LICENSE)
 
-### Scripts atualmente disponíveis:
-- `Scripts de beeps`
-- `Controle de bando automático quando um novo cliente receber IP do DHCP Server`
-- `Scripts de mensagem para grupos do Telegram por meio da API`
+### Scripts currently available:
+- `Beep scripts`
+- `Automatic bandwidth control when a new client receives IP from DHCP Server`
+- `Message scripts for Telegram groups via API`
 
-### Descrição
-Este repositório é uma coleção de scripts para Routerboards Mikrotik, destinado a ajudar administradores de rede a automatizar tarefas e simplificar a configuração de suas redes. Os scripts fornecidos neste repositório abrangem uma ampla gama de funcionalidades, desde tarefas básicas de configuração até tarefas avançadas de gerenciamento de rede.
+### Description
+This repository is a collection of scripts for Mikrotik Routerboards, intended to help network administrators automate tasks and simplify configuration of their networks. The scripts provided in this repository cover a wide range of functionality, from basic configuration tasks to advanced network management tasks.
 
-Este repositório é atualizado regularmente e recebe contribuições da comunidade de usuários, o que significa que você pode esperar encontrar novos scripts e atualizações frequentes. Se você é um administrador de rede que usa Routerboards Mikrotik, este repositório é uma excelente fonte de scripts úteis e práticos que podem economizar muito tempo e melhorar a eficiência da sua rede.
+This repository is regularly updated and welcomes contributions from the user community, which means you can expect to find new scripts and frequent updates. If you are a network administrator using Mikrotik Routerboards, this repository is an excellent source of useful and practical scripts that can save you a lot of time and improve the efficiency of your network.
 
-## Contribua com scripts :)
-Este repositório de scripts para Routerboards Mikrotik foi criado para ajudar os administradores de rede a automatizar tarefas e simplificar a configuração de suas redes. Se você é um **desenvolvedor** ou **profissional de rede** experiente, pode contribuir com seus próprios scripts e aprimorar ainda mais este repositório.
+## Contribute scripts :)
+This script repository for Mikrotik Routerboards was created to help network administrators automate tasks and simplify configuration of their networks. If you are an experienced **developer** or **networking professional**, you can contribute your own scripts and further enhance this repository.
 
-As possibilidades são infinitas!
+The possibilities are endless!
 
-Você pode contribuir com scripts para novas categorias, como:
-- Scripts de segurança
+You can contribute scripts to new categories such as:
+- Security Scripts
 - QoS
 - VPN
-- Gerenciamento de banda
-- E outros
+- Bandwidth management
+- And others
 
-Você também pode criar scripts que abordem problemas específicos da sua rede ou que implementem novas funcionalidades.
+You can also create scripts that address issues specific to your network or that implement new functionality.
 
-As contribuições podem ser feitas por meio de pull requests, que serão revisados pela comunidade e pelo proprietário do repositório. Ao contribuir com seus scripts, você estará ajudando a comunidade de administradores de rede a melhorar a eficiência de suas redes e, ao mesmo tempo, expandir seus próprios conhecimentos e habilidades.
+Contributions can be made through pull requests, which will be reviewed by the community and the repository owner. By contributing your scripts, you will be helping the community of network administrators improve the efficiency of their networks while expanding your own knowledge and skills.
 
-Não hesite em se juntar a nós e compartilhar seus conhecimentos e habilidades com outros profissionais de rede.
+Don't hesitate to join us and share your knowledge and skills with other networking professionals.
 
-### Licença
-Este repositório está licenciado sob a GPL3, o que dá a você liberdade para usar, modificar e distribuir os scripts, desde que você siga as regras estabelecidas na [LICENÇA](LICENSE).
+### License
+This repository is licensed under GPL3, which gives you freedom to use, modify and distribute the scripts, as long as you follow the rules set out in [LICENÇA](LICENSE).
