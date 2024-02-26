@@ -29,6 +29,3 @@ You can also create scripts that address issues specific to your network or that
 Contributions can be made through pull requests, which will be reviewed by the community and the repository owner. By contributing your scripts, you will be helping the community of network administrators improve the efficiency of their networks while expanding your own knowledge and skills.
 
 Don't hesitate to join us and share your knowledge and skills with other networking professionals.
-
-### License
-This repository is licensed under GPL3, which gives you freedom to use, modify and distribute the scripts, as long as you follow the rules set out in [LICENÇA](LICENSE).
