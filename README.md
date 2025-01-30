@@ -1,4 +1,4 @@
-# RouterBOARD-Scripts
+# RouterOS Scripts
 
 ![Mikrotik](https://img.shields.io/badge/Mikrorik-293239?style=flat&logo=mikrotik&logoColor=white)
 [![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
